@@ -7,7 +7,7 @@
   <a href="https://github.com/karthikrayalli"><img alt="GitHub" src="https://img.shields.io/badge/-Karthik%20Rayalli-black?style=flat-square&logo=GitHub&logoColor=white"></a>
 </p>
 
-<p align="justify">I'm a software engineer with full stack development experience of 3+ years. I have a passion for writing clean, efficient, and maintainable code. I enjoy keeping up to date with the latest technologies and I love reading and writing about tech.</p>
+<p align="justify">I'm a software engineer with full stack development experience of 4+ years. I have a passion for writing clean, efficient, and maintainable code. I enjoy keeping up to date with the latest technologies and I love reading and writing about tech.</p>
 
 <h3 align="center">🚀 Skills</h3>
 
