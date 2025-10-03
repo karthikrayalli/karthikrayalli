@@ -82,30 +82,6 @@ I’m a software engineer with 4+ years of full-stack experience. I care about c
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=karthikrayalli&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karthikrayalli&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=default&hide_border=true">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=karthikrayalli&theme=tokyonight&hide_border=true">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=karthikrayalli&theme=default&hide_border=true">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikrayalli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikrayalli&layout=compact&langs_count=8&theme=default&hide_border=true">
-  </picture>
-</p>
-
----
-
 <details>
   <summary><b>🧰 Tools, Infra & Practices</b></summary>
   <br/>
